@@ -1,4 +1,4 @@
-# Definition
+## Definition
 
 The `map()` method on `Array` instances creates a new array populated with result of calling a provided function on every element in the calling array
 
